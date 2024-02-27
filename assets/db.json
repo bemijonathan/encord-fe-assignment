@@ -33,5 +33,164 @@
         "score": "0.28"
       }
     ]
-  }
+  },
+  "images": [
+    {
+      "id": "0b4x2437msndlt3hz3hd",
+      "fileName": "Screenshot 2024-02-20 at 09.53.18.png",
+      "size": 203904,
+      "type": "image/png",
+      "uploadTime": "2024-02-26T22:15:23.233Z"
+    },
+    {
+      "id": "q7d612963nalt3mplbx",
+      "fileName": "Screenshot 2024-02-22 at 16.51.09.png",
+      "size": 48775,
+      "type": "image/png",
+      "uploadTime": "2024-02-27T00:27:57.885Z"
+    }
+  ],
+  "predictions": [
+    {
+      "id": "s3dfweavvwilt3jtaz7",
+      "title": "jkklj",
+      "description": "jbmjkb",
+      "prediction": {
+        "description": "Detected objects",
+        "predictions": [
+          {
+            "bbox": {
+              "x1": 589,
+              "x2": 1443,
+              "y1": 92,
+              "y2": 927
+            },
+            "label": "orange",
+            "score": "0.97"
+          },
+          {
+            "bbox": {
+              "x1": -1,
+              "x2": 1617,
+              "y1": 25,
+              "y2": 1193
+            },
+            "label": "bowl",
+            "score": "0.29"
+          },
+          {
+            "bbox": {
+              "x1": -3,
+              "x2": 801,
+              "y1": 1,
+              "y2": 204
+            },
+            "label": "person",
+            "score": "0.28"
+          }
+        ]
+      },
+      "image": {
+        "id": "acfvbf5ybflt3jqq95",
+        "fileName": "23 No Results Found.svg",
+        "size": 10065,
+        "type": "image/svg+xml",
+        "uploadTime": "2024-02-26T23:04:52.076Z"
+      }
+    },
+    {
+      "id": "5664g7d6gcmlt3ju1xp",
+      "title": "dsagasd",
+      "description": "adsfasdf",
+      "prediction": {
+        "description": "Detected objects",
+        "predictions": [
+          {
+            "bbox": {
+              "x1": 589,
+              "x2": 1443,
+              "y1": 92,
+              "y2": 927
+            },
+            "label": "orange",
+            "score": "0.97"
+          },
+          {
+            "bbox": {
+              "x1": -1,
+              "x2": 1617,
+              "y1": 25,
+              "y2": 1193
+            },
+            "label": "bowl",
+            "score": "0.29"
+          },
+          {
+            "bbox": {
+              "x1": -3,
+              "x2": 801,
+              "y1": 1,
+              "y2": 204
+            },
+            "label": "person",
+            "score": "0.28"
+          }
+        ]
+      },
+      "image": {
+        "id": "0pgbuk8m1acslt3jqfr2",
+        "fileName": "Screenshot 2024-02-22 at 16.51.09.png",
+        "size": 48775,
+        "type": "image/png",
+        "uploadTime": "2024-02-26T23:04:38.463Z"
+      }
+    },
+    {
+      "id": "otqfms5lncnlt3mw2yo",
+      "title": "prediction",
+      "description": "asdgasdfsadf",
+      "prediction": {
+        "description": "Detected objects",
+        "predictions": [
+          {
+            "bbox": {
+              "x1": 589,
+              "x2": 1443,
+              "y1": 92,
+              "y2": 927
+            },
+            "label": "orange",
+            "score": "0.97"
+          },
+          {
+            "bbox": {
+              "x1": -1,
+              "x2": 1617,
+              "y1": 25,
+              "y2": 1193
+            },
+            "label": "bowl",
+            "score": "0.29"
+          },
+          {
+            "bbox": {
+              "x1": -3,
+              "x2": 801,
+              "y1": 1,
+              "y2": 204
+            },
+            "label": "person",
+            "score": "0.28"
+          }
+        ]
+      },
+      "image": {
+        "id": "acfvbf5ybflt3jqq95",
+        "fileName": "23 No Results Found.svg",
+        "size": 10065,
+        "type": "image/svg+xml",
+        "uploadTime": "2024-02-26T23:04:52.076Z"
+      }
+    }
+  ]
 }
